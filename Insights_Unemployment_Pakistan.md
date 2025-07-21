@@ -56,9 +56,6 @@ ___________________________________
 
 **Umaima Akbar**  
 Data Science Student | Data Zenix Intern
-
-___________________________________
-
 • [GitHub](https://github.com/umaima-akbar) 
 • [LinkedIn](https://www.linkedin.com/in/umaima-akbar-a70bb1375/)
 
